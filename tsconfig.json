@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "outDir": "build"
+  },
+  "luaTarget": "JIT",
+  "include": [
+    "source"
+  ]
+}
